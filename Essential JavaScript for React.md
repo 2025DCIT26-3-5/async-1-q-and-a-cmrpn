@@ -44,4 +44,5 @@
 ## Q: In JSX, how would you render one element if a condition is true and another element otherwise, using the ternary operator? Provide a code snippet.
 ## A: You can inline a ternary inside JSX.
 
+
 ## MODIFIED BY JOHN CARLO CATIBOG

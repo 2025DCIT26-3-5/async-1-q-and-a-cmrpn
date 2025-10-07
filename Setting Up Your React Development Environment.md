@@ -15,9 +15,7 @@
 
 
 
-
 # Vite
-
 ## Q: What is Vite, and why is it preferred over Create React App (CRA) for setting up new React projects?
 
 ## A: Vite is a modern build tool that offers faster development and instant hot module replacement (HMR). Unlike CRA, Vite uses ES modules and native browser features, making startup and rebuilds extremely quick.

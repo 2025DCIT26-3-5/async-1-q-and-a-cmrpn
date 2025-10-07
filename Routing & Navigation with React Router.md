@@ -46,3 +46,5 @@
 
 ## Answer
 ## A: Nested routes let pages share a common layout (like a dashboard with a sidebar) while displaying different content inside.
+
+## Modified by: Hezekiah Novales
